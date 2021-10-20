@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5b71818.chunk.css",
+    "main.js": "/static/js/main.e4bbec58.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6b8c3791.js",
+    "static/css/2.209f649e.chunk.css": "/static/css/2.209f649e.chunk.css",
+    "static/js/2.639cbf76.chunk.js": "/static/js/2.639cbf76.chunk.js",
+    "static/js/3.9933c41d.chunk.js": "/static/js/3.9933c41d.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.639cbf76.chunk.js.LICENSE.txt": "/static/js/2.639cbf76.chunk.js.LICENSE.txt",
+    "static/js/3.9933c41d.chunk.js.LICENSE.txt": "/static/js/3.9933c41d.chunk.js.LICENSE.txt",
+    "static/media/909-drums.f045da2c.mp3": "/static/media/909-drums.f045da2c.mp3",
+    "static/media/cow-face.c96a408e.png": "/static/media/cow-face.c96a408e.png",
+    "static/media/cow-right.c5bdd749.png": "/static/media/cow-right.c5bdd749.png",
+    "static/media/flying-saucer.93ebea7e.png": "/static/media/flying-saucer.93ebea7e.png",
+    "static/media/guitar-loop.33652f23.mp3": "/static/media/guitar-loop.33652f23.mp3",
+    "static/media/moo.6dd81311.mp3": "/static/media/moo.6dd81311.mp3",
+    "static/media/pile-of-poo.a2e512c3.png": "/static/media/pile-of-poo.a2e512c3.png",
+    "static/media/pop-up-on.b776a1ef.mp3": "/static/media/pop-up-on.b776a1ef.mp3",
+    "static/media/power-up.343a6a8a.mp3": "/static/media/power-up.343a6a8a.mp3",
+    "static/media/rising-pops.7eda816b.mp3": "/static/media/rising-pops.7eda816b.mp3",
+    "static/media/index.css": "/static/media/roboto-mono-vietnamese-400-normal.baa5de8f.woff2",
+    "static/media/sparkles.fe2fbb10.png": "/static/media/sparkles.fe2fbb10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8c3791.js",
+    "static/css/2.209f649e.chunk.css",
+    "static/js/2.639cbf76.chunk.js",
+    "static/css/main.b5b71818.chunk.css",
+    "static/js/main.e4bbec58.chunk.js"
+  ]
+}
