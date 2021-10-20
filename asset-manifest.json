@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cattlelyst-preview/static/css/main.b5b71818.chunk.css",
-    "main.js": "/cattlelyst-preview/static/js/main.192a5eeb.chunk.js",
+    "main.js": "/cattlelyst-preview/static/js/main.e80ae68a.chunk.js",
     "runtime-main.js": "/cattlelyst-preview/static/js/runtime-main.865f1a4a.js",
     "static/css/2.855dc2a1.chunk.css": "/cattlelyst-preview/static/css/2.855dc2a1.chunk.css",
     "static/js/2.639cbf76.chunk.js": "/cattlelyst-preview/static/js/2.639cbf76.chunk.js",
@@ -27,6 +27,6 @@
     "static/css/2.855dc2a1.chunk.css",
     "static/js/2.639cbf76.chunk.js",
     "static/css/main.b5b71818.chunk.css",
-    "static/js/main.192a5eeb.chunk.js"
+    "static/js/main.e80ae68a.chunk.js"
   ]
 }
