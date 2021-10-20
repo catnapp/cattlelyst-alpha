@@ -1,4 +1,4 @@
-body{margin:0!important}@-webkit-keyframes floatup{0%{width:60%;margin:20%;top:20px;opacity:.8;left:-30}to{width:150%;margin:-25%;top:-30px;opacity:0;left:0}}@keyframes floatup{0%{width:60%;margin:20%;top:20px;opacity:.8;left:-30}to{width:150%;margin:-25%;top:-30px;opacity:0;left:0}}@-webkit-keyframes fadein{0%{opacity:0}to{opacity:1}}@keyframes fadein{0%{opacity:0}to{opacity:1}}
+body,html{margin:0!important}#root,body,html{height:100%!important}@-webkit-keyframes floatup{0%{width:60%;margin:20%;top:20px;opacity:.8;left:-30}to{width:150%;margin:-25%;top:-30px;opacity:0;left:0}}@keyframes floatup{0%{width:60%;margin:20%;top:20px;opacity:.8;left:-30}to{width:150%;margin:-25%;top:-30px;opacity:0;left:0}}@-webkit-keyframes fadein{0%{opacity:0}to{opacity:1}}@keyframes fadein{0%{opacity:0}to{opacity:1}}
 /*!
  * animate.css - https://animate.style/
  * Version - 4.1.1
