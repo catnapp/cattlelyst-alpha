@@ -1,32 +1,29 @@
 {
   "files": {
-    "main.css": "/cattlelyst-preview/static/css/main.4c8f7fed.chunk.css",
-    "main.js": "/cattlelyst-preview/static/js/main.7beedeeb.chunk.js",
-    "runtime-main.js": "/cattlelyst-preview/static/js/runtime-main.865f1a4a.js",
-    "static/css/2.855dc2a1.chunk.css": "/cattlelyst-preview/static/css/2.855dc2a1.chunk.css",
-    "static/js/2.639cbf76.chunk.js": "/cattlelyst-preview/static/js/2.639cbf76.chunk.js",
-    "static/js/3.9933c41d.chunk.js": "/cattlelyst-preview/static/js/3.9933c41d.chunk.js",
+    "main.css": "/cattlelyst-preview/static/css/main.36b69ab8.chunk.css",
+    "main.js": "/cattlelyst-preview/static/js/main.9977fee1.chunk.js",
+    "runtime-main.js": "/cattlelyst-preview/static/js/runtime-main.0c2a50ee.js",
+    "static/css/2.a95ab217.chunk.css": "/cattlelyst-preview/static/css/2.a95ab217.chunk.css",
+    "static/js/2.9d603ad8.chunk.js": "/cattlelyst-preview/static/js/2.9d603ad8.chunk.js",
+    "static/js/3.a019dd37.chunk.js": "/cattlelyst-preview/static/js/3.a019dd37.chunk.js",
     "index.html": "/cattlelyst-preview/index.html",
-    "static/js/2.639cbf76.chunk.js.LICENSE.txt": "/cattlelyst-preview/static/js/2.639cbf76.chunk.js.LICENSE.txt",
-    "static/js/3.9933c41d.chunk.js.LICENSE.txt": "/cattlelyst-preview/static/js/3.9933c41d.chunk.js.LICENSE.txt",
+    "static/js/2.9d603ad8.chunk.js.LICENSE.txt": "/cattlelyst-preview/static/js/2.9d603ad8.chunk.js.LICENSE.txt",
+    "static/js/3.a019dd37.chunk.js.LICENSE.txt": "/cattlelyst-preview/static/js/3.a019dd37.chunk.js.LICENSE.txt",
     "static/media/909-drums.f045da2c.mp3": "/cattlelyst-preview/static/media/909-drums.f045da2c.mp3",
-    "static/media/cow-face.c96a408e.png": "/cattlelyst-preview/static/media/cow-face.c96a408e.png",
     "static/media/cow-right.c5bdd749.png": "/cattlelyst-preview/static/media/cow-right.c5bdd749.png",
-    "static/media/flying-saucer.93ebea7e.png": "/cattlelyst-preview/static/media/flying-saucer.93ebea7e.png",
+    "static/media/error.df3e968c.flac": "/cattlelyst-preview/static/media/error.df3e968c.flac",
     "static/media/guitar-loop.33652f23.mp3": "/cattlelyst-preview/static/media/guitar-loop.33652f23.mp3",
     "static/media/moo.6dd81311.mp3": "/cattlelyst-preview/static/media/moo.6dd81311.mp3",
-    "static/media/pile-of-poo.a2e512c3.png": "/cattlelyst-preview/static/media/pile-of-poo.a2e512c3.png",
     "static/media/pop-up-on.b776a1ef.mp3": "/cattlelyst-preview/static/media/pop-up-on.b776a1ef.mp3",
     "static/media/power-up.343a6a8a.mp3": "/cattlelyst-preview/static/media/power-up.343a6a8a.mp3",
     "static/media/rising-pops.7eda816b.mp3": "/cattlelyst-preview/static/media/rising-pops.7eda816b.mp3",
-    "static/media/index.css": "/cattlelyst-preview/static/media/roboto-mono-vietnamese-400-normal.baa5de8f.woff2",
-    "static/media/sparkles.fe2fbb10.png": "/cattlelyst-preview/static/media/sparkles.fe2fbb10.png"
+    "static/media/index.css": "/cattlelyst-preview/static/media/roboto-mono-vietnamese-400-normal.a9575edb.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.865f1a4a.js",
-    "static/css/2.855dc2a1.chunk.css",
-    "static/js/2.639cbf76.chunk.js",
-    "static/css/main.4c8f7fed.chunk.css",
-    "static/js/main.7beedeeb.chunk.js"
+    "static/js/runtime-main.0c2a50ee.js",
+    "static/css/2.a95ab217.chunk.css",
+    "static/js/2.9d603ad8.chunk.js",
+    "static/css/main.36b69ab8.chunk.css",
+    "static/js/main.9977fee1.chunk.js"
   ]
 }
